@@ -38,7 +38,7 @@ img {
 }
 
 .container {
-  max-width: 1158px;
+  max-width: 1154px;
   margin: 0 auto;
   padding: 0 15px;
 }
@@ -160,7 +160,6 @@ img {
   padding: 188px 0;
   background-image: linear-gradient(
       rgba(46, 47, 66, 0.7),
-      rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
     url(../images/people-office\ 1.jpg);
@@ -258,6 +257,17 @@ img {
   line-height: 150%;
   letter-spacing: 0.02em;
   color: #434455;
+}
+
+.advan-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  border: 1px solid #8e8f99;
+  margin-bottom: 8px;
 }
 
 /*TEAM*/
